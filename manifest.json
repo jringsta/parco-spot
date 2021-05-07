@@ -9,7 +9,7 @@
         "type": "image/x-icon"
       }
     ],
-    "start_url": ".",
+    "start_url": "/?source=pwa",
     "display": "standalone",
     "theme_color": "#ebebf5",
     "background_color": "#ebebf5"
