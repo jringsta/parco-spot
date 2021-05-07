@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/parco-landingpage/static/css/main.7f42a7c0.chunk.css",
+    "main.js": "/parco-landingpage/static/js/main.4d1cc91d.chunk.js",
+    "main.js.map": "/parco-landingpage/static/js/main.4d1cc91d.chunk.js.map",
+    "runtime-main.js": "/parco-landingpage/static/js/runtime-main.bb3c8ba4.js",
+    "runtime-main.js.map": "/parco-landingpage/static/js/runtime-main.bb3c8ba4.js.map",
+    "static/css/2.66204aee.chunk.css": "/parco-landingpage/static/css/2.66204aee.chunk.css",
+    "static/js/2.00bf4e7d.chunk.js": "/parco-landingpage/static/js/2.00bf4e7d.chunk.js",
+    "static/js/2.00bf4e7d.chunk.js.map": "/parco-landingpage/static/js/2.00bf4e7d.chunk.js.map",
+    "static/js/3.07474503.chunk.js": "/parco-landingpage/static/js/3.07474503.chunk.js",
+    "static/js/3.07474503.chunk.js.map": "/parco-landingpage/static/js/3.07474503.chunk.js.map",
+    "index.html": "/parco-landingpage/index.html",
+    "static/css/2.66204aee.chunk.css.map": "/parco-landingpage/static/css/2.66204aee.chunk.css.map",
+    "static/css/main.7f42a7c0.chunk.css.map": "/parco-landingpage/static/css/main.7f42a7c0.chunk.css.map",
+    "static/js/2.00bf4e7d.chunk.js.LICENSE.txt": "/parco-landingpage/static/js/2.00bf4e7d.chunk.js.LICENSE.txt",
+    "static/media/AppStoreDownload.8c4986ee.svg": "/parco-landingpage/static/media/AppStoreDownload.8c4986ee.svg",
+    "static/media/ParcoLogo.8bfa2293.png": "/parco-landingpage/static/media/ParcoLogo.8bfa2293.png",
+    "static/media/iphone.a7d50594.png": "/parco-landingpage/static/media/iphone.a7d50594.png",
+    "static/media/iphone1.a2ee5ed4.png": "/parco-landingpage/static/media/iphone1.a2ee5ed4.png",
+    "static/media/iphone2.03c13a07.png": "/parco-landingpage/static/media/iphone2.03c13a07.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb3c8ba4.js",
+    "static/css/2.66204aee.chunk.css",
+    "static/js/2.00bf4e7d.chunk.js",
+    "static/css/main.7f42a7c0.chunk.css",
+    "static/js/main.4d1cc91d.chunk.js"
+  ]
+}
