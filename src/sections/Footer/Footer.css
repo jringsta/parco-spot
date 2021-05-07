@@ -1,0 +1,44 @@
+.footer-position {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer-icons {
+    display: flex;
+    justify-content: center;
+}
+
+.footer-icon-container {
+    margin: 0 1rem;
+}
+
+.footer-icon {
+    color: #478EE0;
+}
+
+.footer-title {
+    padding-bottom: 2rem;
+}
+
+.footer-copyright {
+    color: #1C1C1E;
+    font-weight: 300;
+}
+
+.footer-contacttext {
+    text-align: center;
+    padding: 2rem 0;
+}
+
+@media (max-width: 450px) {
+    .footer-title {
+      font-size: 1.75rem;
+    }
+}
+
+@media (max-width: 295px) {
+    .footer-icon-container {
+        margin: 0 .5rem;
+    }
+}

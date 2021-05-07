@@ -1,0 +1,20 @@
+.flip-places {
+    flex-direction: column;
+}
+
+.horizontal-middle {
+    margin: 3.5rem 0;
+}
+
+@media (max-width: 960px) {
+    .horizontal-middle {
+        margin: 2rem 0;
+    }
+}
+
+@media (max-width: 690px) {
+    .horizontal-middle {
+        margin: 0 0;
+    }
+}
+
