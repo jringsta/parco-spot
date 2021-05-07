@@ -20,7 +20,7 @@ const Why = props => {
                 <VerticalCard
                     icon={faDollarSign}
                     title="Affordable"
-                    body="Reasonably priced cheaper than other existing parking options."
+                    body="Competitively priced and cheaper than other existing parking options."
                 />
             </div>
 

@@ -44,10 +44,10 @@ const AttentionGrabber = props => {
                         </div>
                     </div>
                 </div>
-                <div className="info-container">
-                    <h3 className="subTitle">
+                <div className="info-container mv3-l mv2">
+                    {/* <h3 className="subTitle">
                         Let your parking space make money for you and download the app today!
-                    </h3>
+                    </h3> */}
                 </div>
                 <div className="flex app-button-container">
                     <a href="https://apps.apple.com/in/app/parco-polo/id1487397600">
