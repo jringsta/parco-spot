@@ -1,0 +1,19 @@
+.logo-size {
+    width: 13rem;
+}
+
+@media (max-width: 1630px) {
+    .logo-size {
+        width: 10rem;
+    }
+}
+@media (max-width: 1130px) {
+    .logo-size {
+        width: 7.5rem;
+    }
+}
+@media (max-width: 535px) {
+    .logo-size {
+        width: 6rem;
+    }
+}

@@ -1,0 +1,50 @@
+.center {
+    align-items: center;
+}
+
+.horizontal-icon {
+    color: #478EE0;
+}
+
+.horizontal-title {
+    margin: 0 0 1rem
+}
+
+.horizontal-body {
+    text-align: left;
+}
+
+.horizontal-position {
+    align-items: center;
+    justify-content: start;
+    padding: 0 5rem;
+    max-width: 80rem;
+}
+
+.horizontal-icon {
+    width: 10rem;
+    display: flex;
+    justify-content: center;
+    padding: 0 6rem
+}
+
+@media (max-width: 1100px) {
+    .horizontal-position {
+        padding: 0 3rem;
+    }
+}
+
+@media (max-width: 690px) {
+    .horizontal-position {
+        flex-direction: column;
+        padding: 0;
+    }
+    .horizontal-title {
+        text-align: center;
+        margin: 1.5rem 0 0rem;
+    }
+
+    .horizontal-body {
+        text-align: center;
+    }
+}

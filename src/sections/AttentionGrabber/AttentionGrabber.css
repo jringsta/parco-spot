@@ -1,0 +1,140 @@
+.TypingText {
+    color: #1C1C1E;
+    font-size: 5.5rem;
+    font-weight: 800;
+    margin: 1rem 0;
+}
+
+.section-flex {
+    display: flex;
+}
+
+.column {
+    flex-direction: column;
+    justify-content: center;
+}
+
+.subTitle {
+    color: #1C1C1E;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 2.5rem;
+    line-height: 3rem;
+}
+
+.main-image {
+    width: 70%;
+    transform: rotate(15deg);
+}
+
+.center{
+    justify-content: center;
+}
+
+.app-button {
+    width: 210px;
+}
+
+@media (max-width: 1630px) {
+    .TypingText {
+        font-size: 4.5rem;
+    }
+    .subTitle {
+        font-size: 1.5rem;
+        line-height: 2rem;
+    }
+    .app-button {
+        width: 175px;
+    }
+}
+
+@media (max-width: 1380px) {
+    .TypingText {
+        font-size: 3.5rem;
+        margin: .75rem 0;
+    }
+    .subTitle {
+        font-size: 1.25rem;
+    }
+}
+
+@media (max-width: 1130px) {
+    .TypingText {
+        font-size: 2.75rem;
+    }
+}
+
+@media (max-width: 960px) {
+    .TypingText {
+        font-size: 3.25rem;
+        text-align: center;
+    }
+    .subTitle {
+        font-size: 1.3rem;
+        text-align: center;
+    }
+    .section-flex{
+        flex-direction: column;
+    }
+    .app-button-container {
+        justify-content: center;
+        margin: 2rem;
+    }
+    .main-image {
+        width: 50%;
+    }
+    .TypingText-container {
+        justify-content: center;
+    }
+}
+
+@media (max-width: 535px) {
+    .TypingText {
+        font-size: 2.5rem;
+    }
+    .main-image {
+        width: 70%;
+    }
+    .app-button {
+        width: 150px;
+    }
+}
+
+@media (max-width: 380px) {
+    .TypingText {
+        font-size: 2rem;
+        margin: .4rem 0;
+    }
+    .subTitle {
+        font-size: 1.15rem;
+        line-height: 1.5rem;
+    }
+    .app-button {
+        width: 140px;
+    }
+    .app-button-container {
+        margin: 1.5rem;
+    }
+    .info-container {
+        margin-top: 1.5rem;
+    }
+}
+
+@media (max-width: 315px) {
+    .TypingText {
+        font-size: 1.7rem;
+    }
+    .app-button {
+        width: 130px;
+    }
+}
+
+@media (max-width: 280px) {
+    .TypingText {
+        font-size: 1.3rem;
+        margin: .2rem 0;
+    }
+    .app-button {
+        width: 120px;
+    }
+}

@@ -1,0 +1,34 @@
+.column {
+    flex-direction: column;
+}
+
+.center {
+    align-items: center;
+}
+
+.spaced {
+    justify-content: space-evenly;
+}
+
+.vertical-position {
+    max-width: 28rem;
+    padding: 0 16px;
+}
+
+@media (max-width: 960px) {
+    .flip {
+        flex-direction: column;
+    }
+    .top-card {
+        padding: 0 1rem;
+    }
+    .middle-card {
+        padding: 3rem 0;
+    }
+    .bottom-card {
+        padding: 0 1rem;
+    }
+    .vertical-position {
+        padding: 0;
+    }
+}
