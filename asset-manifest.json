@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.7f42a7c0.chunk.css",
-    "main.js": "/static/js/main.4d1cc91d.chunk.js",
-    "main.js.map": "/static/js/main.4d1cc91d.chunk.js.map",
+    "main.css": "/static/css/main.7331c607.chunk.css",
+    "main.js": "/static/js/main.b5a6de73.chunk.js",
+    "main.js.map": "/static/js/main.b5a6de73.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b5ec856a.js",
     "runtime-main.js.map": "/static/js/runtime-main.b5ec856a.js.map",
     "static/css/2.66204aee.chunk.css": "/static/css/2.66204aee.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.07474503.chunk.js.map": "/static/js/3.07474503.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.66204aee.chunk.css.map": "/static/css/2.66204aee.chunk.css.map",
-    "static/css/main.7f42a7c0.chunk.css.map": "/static/css/main.7f42a7c0.chunk.css.map",
+    "static/css/main.7331c607.chunk.css.map": "/static/css/main.7331c607.chunk.css.map",
     "static/js/2.00bf4e7d.chunk.js.LICENSE.txt": "/static/js/2.00bf4e7d.chunk.js.LICENSE.txt",
     "static/media/AppStoreDownload.8c4986ee.svg": "/static/media/AppStoreDownload.8c4986ee.svg",
     "static/media/ParcoLogo.8bfa2293.png": "/static/media/ParcoLogo.8bfa2293.png",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.b5ec856a.js",
     "static/css/2.66204aee.chunk.css",
     "static/js/2.00bf4e7d.chunk.js",
-    "static/css/main.7f42a7c0.chunk.css",
-    "static/js/main.4d1cc91d.chunk.js"
+    "static/css/main.7331c607.chunk.css",
+    "static/js/main.b5a6de73.chunk.js"
   ]
 }
